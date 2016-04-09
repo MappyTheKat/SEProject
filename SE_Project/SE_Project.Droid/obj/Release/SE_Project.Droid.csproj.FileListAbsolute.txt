@@ -1,1 +1,26 @@
 C:\Users\배성\Documents\Visual Studio 2015\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\SE_Project.Droid.csprojResolveAssemblyReference.cache
+C:\Users\배성\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\SE_Project.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\SE_Project.Droid.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\SE_Project.Droid.pdb
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\SE_Project.SE_Project.apk
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\SE_Project.SE_Project-Signed.apk
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\FormsViewGroup.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\SE_Project.Droid.dll
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\SE_Project.Droid.pdb
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\android\bin\SE_Project.SE_Project.apk
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\res\drawable\icon.png
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\R.cs.flag
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\uploadflags.txt
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\obj\Release\SE_Project.Droid.dll.mdb
+C:\Users\Mappy The Kat\Desktop\Projects\SE_Project\SE_Project\SE_Project.Droid\bin\Release\SE_Project.Droid.dll.mdb
