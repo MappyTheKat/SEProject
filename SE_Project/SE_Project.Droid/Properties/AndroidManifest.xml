@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SE_Project.SE_Project" android:installLocation="auto" android:versionCode="0.1" android:versionName="lunch">
+	<uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.ACCOUNT_MANAGER" />
+	<uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<application android:label="SE_Project"></application>
+</manifest>
