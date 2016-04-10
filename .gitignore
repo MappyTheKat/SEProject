@@ -257,3 +257,4 @@ paket-files/
 *.sln.iml
 
 
+/SE_Project/SE_Project.Droid/obj
