@@ -20,7 +20,6 @@ namespace SE_Project
         public void OnSomeButtonClicked(object sender, EventArgs e)
         {
             MainText = "FORK YOU";
-               
         }
     }
 }
