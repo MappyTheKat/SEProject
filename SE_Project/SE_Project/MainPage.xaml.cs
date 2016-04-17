@@ -15,11 +15,25 @@ namespace SE_Project
             InitializeComponent(); //<- 대체 왜??
         }
 
-        string MainText;
+        private string mainText;
+        public string MainText
+        {
+            get { return mainText; }
+            set
+            {
+                mainText = value;
+                OnPropertyChanged();
+            }
+        }
+
+        public void MainPageLoaded(object sender, EventArgs e)
+        {
+        }
 
         public void OnSomeButtonClicked(object sender, EventArgs e)
         {
             MainText = "FORK YOU";
+            xSomeButton.Text = "FORK YOU";
         }
     }
 }

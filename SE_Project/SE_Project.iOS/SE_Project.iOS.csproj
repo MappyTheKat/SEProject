@@ -137,6 +137,55 @@
     </Reference>
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Icons\full heart.png" />
+    <Content Include="Resources\Icons\full heart3.png" />
+    <Content Include="Resources\Icons\half heart.png" />
+    <Content Include="Resources\Icons\half heart2.png" />
+    <Content Include="Resources\Icons\microphone.png" />
+    <Content Include="Resources\Icons\plus box.png" />
+    <Content Include="Resources\Icons\profile_about_me.png" />
+    <Content Include="Resources\Icons\profile_camera.png" />
+    <Content Include="Resources\Icons\profile_camera2.png" />
+    <Content Include="Resources\Icons\profile_i.png" />
+    <Content Include="Resources\Icons\profile_info.png" />
+    <Content Include="Resources\Icons\profile_info2.png" />
+    <Content Include="Resources\Icons\profile_info3.png" />
+    <Content Include="Resources\Icons\profile_items.png" />
+    <Content Include="Resources\Icons\profile_i_off.png" />
+    <Content Include="Resources\Icons\profile_map.png" />
+    <Content Include="Resources\Icons\profile_map2.png" />
+    <Content Include="Resources\Icons\profile_me.png" />
+    <Content Include="Resources\Icons\profile_microphone.png" />
+    <Content Include="Resources\Icons\profile_microphone2.png" />
+    <Content Include="Resources\Icons\profile_microphone_b.png" />
+    <Content Include="Resources\Icons\profile_microphone_g.png" />
+    <Content Include="Resources\Icons\profile_photo_man.png" />
+    <Content Include="Resources\Icons\profile_photo_man2.png" />
+    <Content Include="Resources\Icons\profile_photo_man3.png" />
+    <Content Include="Resources\Icons\profile_photo_woman.png" />
+    <Content Include="Resources\Icons\profile_photo_woman2.png" />
+    <Content Include="Resources\Icons\profile_photo_woman3.png" />
+    <Content Include="Resources\Icons\profile_picture.png" />
+    <Content Include="Resources\Icons\profile_picture_b.png" />
+    <Content Include="Resources\Icons\profile_picture_g.png" />
+    <Content Include="Resources\Icons\profile_picture_r.png" />
+    <Content Include="Resources\Icons\profile_plus.png" />
+    <Content Include="Resources\Icons\profile_plus_box.png" />
+    <Content Include="Resources\Icons\profile_rectangle_gray.png" />
+    <Content Include="Resources\Icons\profile_rectangle_red.png" />
+    <Content Include="Resources\Icons\profile_star.png" />
+    <Content Include="Resources\Icons\profile_texts.png" />
+    <Content Include="Resources\Icons\profile_texts2.png" />
+    <Content Include="Resources\Icons\profile_text_g.png" />
+    <Content Include="Resources\Icons\profile_weight.png" />
+    <Content Include="Resources\logo\logo_nanum.png" />
+    <Content Include="Resources\logo\logo_nanum_1000.png" />
+    <Content Include="Resources\logo\logo_nanum_200.png" />
+    <Content Include="Resources\logo\logo_nanum_400.png" />
+    <Content Include="Resources\logo\logo_nanum_600.png" />
+    <Content Include="Resources\logo\logo_nanum_800.png" />
+  </ItemGroup>
   <Import Project="..\SE_Project\SE_Project.projitems" Label="Shared" Condition="Exists('..\SE_Project\SE_Project.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.0.0.6482\build\portable-win+net45+wp80+win81+wpa81+MonoAndroid10+MonoTouch10+Xamarin.iOS10\Xamarin.Forms.targets')" />
