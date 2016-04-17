@@ -261,3 +261,7 @@ paket-files/
 /.vs
 obj
 obj
+obj
+obj
+bin
+obj
