@@ -10,6 +10,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AppCommon.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FeedCard.xaml.cs">
       <DependentUpon>FeedCard.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -20,17 +21,22 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)FriendInfoData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HttpCommunication.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
-      <DependentUpon>MainPage.xaml</DependentUpon>
+    <Compile Include="$(MSBuildThisFileDirectory)Scene\Intro\IntroPage.xaml.cs">
+      <DependentUpon>IntroPage.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Scene\MainPage\MainPage.xaml.cs">
+      <SubType>Code</SubType>
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Scene\MainPage\MainPageViewModel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="$(MSBuildThisFileDirectory)GettingStarted.Xamarin" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="$(MSBuildThisFileDirectory)MainPage.xaml">
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Scene\MainPage\MainPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
@@ -97,8 +103,9 @@
     <Content Include="$(MSBuildThisFileDirectory)Resources\logo\logo_nanum_800.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="$(MSBuildThisFileDirectory)ContentView\MainPage\" />
-    <Folder Include="$(MSBuildThisFileDirectory)Scene\Intro\" />
-    <Folder Include="$(MSBuildThisFileDirectory)Scene\MainPage\" />
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Scene\Intro\IntroPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
