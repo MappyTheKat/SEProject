@@ -137,7 +137,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="LitJson">
-      <HintPath>..\..\..\LitJson.dll</HintPath>
+      <HintPath>..\..\LitJson.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.2.0.0.6482\lib\win81\Xamarin.Forms.Core.dll</HintPath>
